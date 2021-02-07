@@ -6,7 +6,7 @@
 построено несколько моделей, проведено сравнение и выбрана лучшая.
 
 ***Используемые библиотеки:***  
-Pandas, Matplotlib, Sklearn, LightGBM, CatBoost.
+Pandas, NumPy, Matplotlib, Sklearn, LightGBM, CatBoost.
 
 ***Статус проекта:***  
 закончен.
