@@ -18,4 +18,4 @@
 |[Классификация тональности текста](https://github.com/arturboev/yandex-practicum-projects/tree/master/13.Text-tonality-classification)|Обучение модели классификации комментариев на позитивные и негативные|Pandas, Sklearn, LightGBM, NLTK|
 |[Аналитика в авиакомпании](https://github.com/arturboev/yandex-practicum-projects/tree/master/14.Airline-analytics)|Сбор данных с помощью запросов SQL, анализ спроса на рейсы в города, где проходят крупнейшие культурные фестивали|Pandas, Matplotlib, SciPy|
 |[Определение возраста](https://github.com/arturboev/yandex-practicum-projects/tree/master/15.Age-determination)|Построение модели, определяющей возраст человека по фотографии|Pandas, Matplotlib, Keras|
-|[Предсказание температуры стали]
+|[Предсказание температуры стали](https://github.com/arturboev/yandex-practicum-projects/blob/master/16.Steel-temperature/steel_temperature.ipynb)|
